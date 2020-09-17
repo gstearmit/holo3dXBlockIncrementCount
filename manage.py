@@ -3,6 +3,7 @@ import os
 import sys
 
 import django
+#from django.core import context_processors
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "workbench.settings")
