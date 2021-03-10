@@ -29,7 +29,7 @@ idna==2.10                # via requests
 importlib-metadata==1.7.0  # via pluggy, pytest, tox, virtualenv
 importlib-resources==3.0.0  # via virtualenv
 jinja2-time==0.2.0        # via cookiecutter
-jinja2==2.11.2            # via cookiecutter, jinja2-time
+jinja2==2.11.3            # via cookiecutter, jinja2-time
 jmespath==0.10.0          # via boto3, botocore
 lazy==1.4                 # via -r requirements/base.in, acid-xblock, bok-choy
 lxml==4.5.2               # via -r requirements/base.in, xblock
