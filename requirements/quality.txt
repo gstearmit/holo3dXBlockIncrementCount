@@ -57,7 +57,7 @@ pydocstyle==5.0.2         # via -r requirements/quality.in
 pylint-celery==0.3        # via edx-lint
 pylint-django==2.0.11     # via edx-lint
 pylint-plugin-utils==0.6  # via pylint-celery, pylint-django
-pylint==2.4.4             # via edx-lint, pylint-celery, pylint-django, pylint-plugin-utils
+pylint==2.7.0             # via edx-lint, pylint-celery, pylint-django, pylint-plugin-utils
 pyparsing==2.4.7          # via -r requirements/test.txt, packaging
 pypng==0.0.20             # via -r requirements/test.txt
 pytest-cov==2.10.0        # via -r requirements/test.txt
